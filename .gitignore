@@ -7,17 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
-build/
+.Python 
 develop-eggs/
 downloads/
 eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
+.eggs/  
+parts/  
 wheels/
 share/python-wheels/
 *.egg-info/
@@ -70,9 +65,7 @@ instance/
 # Sphinx documentation
 docs/_build/
 
-# PyBuilder
-.pybuilder/
-target/
+# PyBuilder  
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -109,16 +102,7 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
+ 
 # Spyder project settings
 .spyderproject
 .spyproject
