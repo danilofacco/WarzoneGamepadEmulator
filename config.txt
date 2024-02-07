@@ -1,0 +1,4 @@
+max_joystick_value = 0.5
+interval_seconds = 0.02
+sensivity_on_parachute = 100.0
+sensivity = 30
