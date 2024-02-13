@@ -1,1 +1,1 @@
-sensitivity = 1
+sensitivity = 40
