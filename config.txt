@@ -1,1 +1,3 @@
-sensitivity = 40
+sensitivity = 30
+interval_seconds = 0.015
+max_joystick_value = 0.6
