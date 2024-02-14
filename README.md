@@ -12,7 +12,7 @@ The Warzone Gamepad Emulator is the ultimate solution to enhance your accuracy a
 
 3. **Consistent Performance**: With the Warzone Gamepad Emulator, you'll enjoy consistent performance in every match, helping you compete with the best players.
 
-## Como Começar
+## How To Use
 
 To start using the Warzone Gamepad Emulator, follow these simple steps:
 1. Download the Warzone Gamepad Emulator from our official website. https://www.facco.dev/warzone-gamepad-emulator
@@ -21,7 +21,7 @@ To start using the Warzone Gamepad Emulator, follow these simple steps:
 4. Customize the settings according to your preferences.
 5. Enter Warzone and experience the difference!
 
-## Experimente Agora
+## Try Now
 
 Don't let lack of precision hold you back from victory. Try the Warzone Gamepad Emulator today and take the next step in your journey to master Warzone.
 
